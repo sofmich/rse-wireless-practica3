@@ -1,0 +1,5 @@
+accel.c:40:13:i2c_release_bus_delay	0	static
+accel.c:49:6:BOARD_I2C_ReleaseBus	24	static
+accel.c:99:6:BOARD_I2C_ConfigurePins	0	static
+accel.c:119:6:InitAccel	32	static
+accel.c:184:9:Get_Accel	64	static
